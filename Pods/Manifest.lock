@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AudioKit (4.0.3):
+    - AudioKit/UI (= 4.0.3)
+  - AudioKit/UI (4.0.3)
+  - LBTAComponents (0.1.9)
+  - ObjectMapper (3.1.0)
+  - PandoraPlayer (1.2):
+    - AudioKit (= 4.0.3)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (4.0.0)
+  - TRON (4.1.0):
+    - Alamofire (~> 4.5)
+    - TRON/SwiftyJSON (= 4.1.0)
+  - TRON/Core (4.1.0):
+    - Alamofire (~> 4.5)
+  - TRON/SwiftyJSON (4.1.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0)
+    - TRON/Core
+
+DEPENDENCIES:
+  - LBTAComponents (~> 0.1.9)
+  - ObjectMapper (~> 3.1)
+  - PandoraPlayer
+  - SnapKit (~> 4.0.0)
+  - TRON (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AudioKit: 914e5e8fcbf35099ff2398775342446a2d81476d
+  LBTAComponents: 9a5d314080d1f80208062ccc81a2d25225c5f572
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PandoraPlayer: 6e2f905ad7c6e51294e6f090d304f08a724174aa
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TRON: 88868149e9a9588f2c9f2a218c3dbc7dce1f3a47
+
+PODFILE CHECKSUM: 657b10a1201a8910c14521ff97ccea6d3c6d3c78
+
+COCOAPODS: 1.4.0
